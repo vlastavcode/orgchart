@@ -1,9 +1,9 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
-9000,,1,,"Advokátní kancelář Císař, Češka, Smutný",,,,,,,,,,,,,,,,
-8001,9000,2,,Společníci AKCCS,,,,,,,,,,,,,,,,
-8002,9000,3,,Partneři AKCCS,,,,,,,,,,,,,,,,
-8003,9000,4,,Kancelář AKCCS,,,,,,,,,,,,,,,,
-8004,9000,5,,Právní týmy AKCCS,,,,,,,,,,,,,,,,
+9000,,1,,"Advokátní kancelář Císař, Češka, Smutný",,,,,,,,,,,,,,,,FALSE
+8001,9000,2,,Společníci AKCCS,,,,,,,,,,,,,,,,FALSE
+8002,9000,3,,Partneři AKCCS,,,,,,,,,,,,,,,,FALSE
+8003,9000,4,,Kancelář AKCCS,,,,,,,,,,,,,,,,FALSE
+8004,9000,5,,Právní týmy AKCCS,,,,,,,,,,,,,,,,FALSE
 7001,8001,6,JUDr.,Pavel,Smutný,,Společník a advokát,Vedení kanceláře,smutny@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/pavel-smutny/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 7002,8001,7,JUDr.,Jaromír,Císař,Ph.D.,Společník a advokát,Vedení kanceláře,cisar@akccs.cz,00 420 123 456 789,26,1,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jaromir-cisar/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 7003,8001,8,JUDr.,Petr,Michal,Ph.D.,Společník a advokát,Vedení kanceláře,michal@akccs.cz,00 420 123 456 789,26,4,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/petr-michal/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
@@ -46,7 +46,7 @@
 1601,8004,45,Mgr. ,Barbora,Kočtářová,,Vedoucí právního týmu,Tým Kočtářová,koctarova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1301,8004,46,Mgr. ,Milan,Kučera,,Vedoucí právního týmu,Tým Kučera,m.kucera@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1201,8004,47,Mgr. Ing.,Markéta ,Tomáš Faustová,,Vedoucí právního týmu,Tým Faustová,faustova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-1001,8004,48,,Of counsel,,,,,,,,,,,,,,,,
+1001,8004,48,,Of counsel,,,,,ak@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1902,1901,49,Mgr. ,Radek ,Tupec,,Advokát,Tým Vlk,tupec@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1903,1901,50,Mgr. ,Barbora,Nováková,,Advokát,Tým Vlk,cervinkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1904,1901,51,Mgr. ,Eva,Pavelková,,Advokát,Tým Vlk,novakova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
@@ -122,73 +122,12 @@
 1013,1001,121,Mgr. ,Monika,Zahrádková,,Expert,Of counsel,zahradkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1014,1001,122,Mgr. ,Adéla,Bušová,,Expert,Of counsel,busova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 1015,1001,123,Mgr. ,Monika,Zahrádková,,Expert,Of counsel,berouskova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-101,9000,124,,ACCESS EU,,,,,,,,,,,,,,,,
+101,9000,124,,ACCESS EU,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 102,101,125,Mgr. ,Petr,Válek,,Asistenti,ACCESS EU,valek@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 103,101,126,,Marien,Chatard,,Asistenti,ACCESS EU,chatard@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-201,9000,127,,AICT,,,,,,,,,,,,,,,,
+201,9000,127,,AICT,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 202,201,128,,Petr,Klíma,,Asistenti,AICT,klima@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-301,9000,129,,Premium Trust,,,,,,,,,,,,,,,,
-401,9000,130,,Summa Consulting,,,,,,,,,,,,,,,,
-501,9000,131,,Corporate Advisory,,,,,,,,,,,,,,,,
-601,9000,132,,Dante Develop,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,141,,,,,,,,,,,,,,,,,,
-,,142,,,,,,,,,,,,,,,,,,
-,,143,,,,,,,,,,,,,,,,,,
-,,144,,,,,,,,,,,,,,,,,,
-,,145,,,,,,,,,,,,,,,,,,
-,,146,,,,,,,,,,,,,,,,,,
-,,147,,,,,,,,,,,,,,,,,,
-,,148,,,,,,,,,,,,,,,,,,
-,,149,,,,,,,,,,,,,,,,,,
-,,150,,,,,,,,,,,,,,,,,,
-,,151,,,,,,,,,,,,,,,,,,
-,,152,,,,,,,,,,,,,,,,,,
+301,9000,129,,Premium Trust,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+401,9000,130,,Summa Consulting,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+501,9000,131,,Corporate Advisory,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+601,9000,132,,Dante Develop,,,,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
