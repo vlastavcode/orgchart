@@ -1,9 +1,9 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
 9000,,2023,,,,,,,,,,,,,,,,,,
-8000,9000,2023,,Společníci,,,,,,,,,,,,,,,,
-8001,9000,2023,,Partneři,,,,,,,,,,,,,,,,
-8002,9000,2023,,Právní týmy,,,,,,,,,,,,,,,,
-8003,9000,2023,,Kancelář,,,,,,,,,,,,,,,,
+8000,,2023,,Společníci,,,,,,,,,,,,,,,,
+8001,,2023,,Partneři,,,,,,,,,,,,,,,,
+8002,,2023,,Právní týmy,,,,,,,,,,,,,,,,
+8003,,2023,,Kancelář,,,,,,,,,,,,,,,,
 7005,8000,2023,JUDr.,Pavel,Smutný,,Společník a advokát,Vedení kanceláře,smutny@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/pavel-smutny/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 7004,8000,2023,JUDr.,Petr,Michal,Ph.D.,Společník a advokát,Vedení kanceláře,michal@akccs.cz,00 420 123 456 789,26,4,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/petr-michal/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 7003,8000,2023,JUDr.,Jakub,Hollmann,Ph.D.,Společník a advokát,Vedení kanceláře,hollmann@akccs.cz,00 420 123 456 789,26,3,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jakub-hollmann/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
