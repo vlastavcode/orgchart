@@ -1,5 +1,5 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
-9000,,2023,,,,,,,,,,,,,,,,,,
+9000,,2023,,AKCCS,,,,,,,,,,,,,,,,
 8000,9000,2023,,Společníci,,,,,,,,,,,,,,,,
 8001,9000,2023,,Partneři,,,,,,,,,,,,,,,,
 8002,9000,2023,,Právní týmy,,,,,,,,,,,,,,,,
