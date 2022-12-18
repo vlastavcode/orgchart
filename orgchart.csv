@@ -1,5 +1,5 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
-9000,,,,AKCCS,,,,,,,,,,,,,,,,
+9000,,,,"Císař, Češka, Smutný s.r.o., advokátní kancelář",,,,,,,,,,,,,,,,
 8000,9000,,,Společníci,,,,,,,,,,,,,,,,
 8001,9000,,,Partneři,,,,,,,,,,,,,,,,
 8002,9000,,,Právní týmy,,,,,,,,,,,,,,,,
