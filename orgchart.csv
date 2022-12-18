@@ -1,4 +1,4 @@
-﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,team,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
+﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,teamName,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
 6000,,2023,,AKCCS,,,Společníci a advokáti,corporate,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1,manager,cto",FALSE
 6001,6000,,JUDr.,Jaromír,Císař,Ph.D.,Zakládající společník,corporate,cisar@akccs.cz,00 420 123 456 789,26,1,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jaromir-cisar/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 6002,6000,,prof. JUDr.,Zdeněk,Češka,CSc.,Společníci a advokáti,corporate,ceska@akccs.cz,00 420 123 456 789,26,2,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/zdenek-ceska/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
