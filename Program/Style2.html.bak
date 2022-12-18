@@ -62,7 +62,7 @@
                      d.data.positionName
                    } </div>
                    <div style="color:#000000;font-family: Typold Condensed, sans-serif;font-size:12px;margin-top:4px"> ${
-                   d.data.area
+                   d.data.teamName
                    }
                    </div>
                </div>
