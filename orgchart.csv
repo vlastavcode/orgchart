@@ -1,13 +1,13 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
-10001,,2023,,AKCCS,,,Advokátní kancelář,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1,manager,cto",FALSE
-9505,10001,2023,prof. JUDr.,Zdeněk,Češka,CSc.,Zakládající společník,vedení,ceska@akccs.cz,00 420 123 456 789,26,2,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/zdenek-ceska/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
-9504,10001,2023,JUDr.,Jaromír,Císař,Ph.D.,Společník a advokát,vedení,cisar@akccs.cz,00 420 123 456 789,26,1,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jaromir-cisar/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
-9503,10001,2023,JUDr.,Jakub,Hollmann,Ph.D.,Společník a advokát,vedení,hollmann@akccs.cz,00 420 123 456 789,26,3,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jakub-hollmann/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
-9502,10001,2023,JUDr.,Petr,Michal,Ph.D.,Společník a advokát,vedení,michal@akccs.cz,00 420 123 456 789,26,4,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/petr-michal/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
-9501,10001,2023,JUDr.,Pavel,Smutný,,Společník a advokát,vedení,smutny@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/pavel-smutny/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
-9305,10001,2023,Mgr.,Filip,Drnec,,Ředitel kanceláře,corporate,drnec@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-9203,10001,2023,,Právní týmy,,,,,,,,,,,,,,,,
-9201,10001,2023,,Partneři,,,,,,,,,,,,,,,,
+9601,,2023,,AKCCS,,,Advokátní kancelář,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1,manager,cto",FALSE
+9505,9601,2023,prof. JUDr.,Zdeněk,Češka,CSc.,Zakládající společník,vedení,ceska@akccs.cz,00 420 123 456 789,26,2,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/zdenek-ceska/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
+9504,9601,2023,JUDr.,Jaromír,Císař,Ph.D.,Společník a advokát,vedení,cisar@akccs.cz,00 420 123 456 789,26,1,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jaromir-cisar/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
+9503,9601,2023,JUDr.,Jakub,Hollmann,Ph.D.,Společník a advokát,vedení,hollmann@akccs.cz,00 420 123 456 789,26,3,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jakub-hollmann/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
+9502,9601,2023,JUDr.,Petr,Michal,Ph.D.,Společník a advokát,vedení,michal@akccs.cz,00 420 123 456 789,26,4,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/petr-michal/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
+9501,9601,2023,JUDr.,Pavel,Smutný,,Společník a advokát,vedení,smutny@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/pavel-smutny/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
+9305,9601,2023,Mgr.,Filip,Drnec,,Ředitel kanceláře,corporate,drnec@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+9203,9601,2023,,Právní týmy,,,,,,,,,,,,,,,,
+9201,9601,2023,,Partneři,,,,,,,,,,,,,,,,
 9011,9201,2023,Mgr.,Jan,Sůra,,Partneři a advokáti,corporate,sura@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 9010,9201,2023,Mgr.,Roman,Kyral,,Partneři a advokáti,corporate,kyral@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 9009,9201,2023,Mgr.,Kateřina,Šveřepová,,Partneři a advokáti,corporate,sverepova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
