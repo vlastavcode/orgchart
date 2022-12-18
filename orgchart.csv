@@ -1,9 +1,9 @@
 ﻿index,id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
 1,9000,,,,"Advokátní kancelář Císař, Češka, Smutný",,,,,,,,,,,,,,,,
-2,8001,9000,,,Společníci,,,,,,,,,,,,,,,,
-3,8002,9000,,,Partneři,,,,,,,,,,,,,,,,
-4,8003,9000,,,Kancelář,,,,,,,,,,,,,,,,
-5,8004,9000,,,Právní týmy,,,,,,,,,,,,,,,,
+2,8001,9000,,,Společníci AKCCS,,,,,,,,,,,,,,,,
+3,8002,9000,,,Partneři AKCCS,,,,,,,,,,,,,,,,
+4,8003,9000,,,Kancelář AKCCS,,,,,,,,,,,,,,,,
+5,8004,9000,,,Právní týmy AKCCS,,,,,,,,,,,,,,,,
 6,,,,,,,,,,,,,,,,,,,,,
 7,7001,8001,,JUDr.,Pavel,Smutný,,Společník a advokát,Vedení kanceláře,smutny@akccs.cz,00 420 123 456 789,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/pavel-smutny/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
 8,7002,8001,,JUDr.,Jaromír,Císař,Ph.D.,Společník a advokát,Vedení kanceláře,cisar@akccs.cz,00 420 123 456 789,26,1,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/jaromir-cisar/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1, tag2",FALSE
@@ -138,22 +138,22 @@
 137,3045,1001,,Mgr. ,Adéla,Bušová,,Expert,Of counsel,busova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 138,3075,1001,,Mgr. ,Monika,Zahrádková,,Expert,Of counsel,berouskova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 139,,,,,,,,,,,,,,,,,,,,,
-140,101,,,,ACCESS EU,,,,,,,,,,,,,,,,
+140,101,9000,,,ACCESS EU,,,,,,,,,,,,,,,,
 141,,,,,,,,,,,,,,,,,,,,,
 142,102,101,,Mgr. ,Petr,Válek,,Asistenti,ACCESS EU,valek@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 143,103,101,,,Marien,Chatard,,Asistenti,ACCESS EU,chatard@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 144,,,,,,,,,,,,,,,,,,,,,
-145,201,,,,AICT,,,,,,,,,,,,,,,,
+145,201,9000,,,AICT,,,,,,,,,,,,,,,,
 146,,,,,,,,,,,,,,,,,,,,,
 147,202,201,,,Petr,Klíma,,Asistenti,AICT,klima@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,
+148,,,,,,,,,,,,,,,,,,,,,
+149,301,9000,,,Premium Trust,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,
+151,401,9000,,,Summa Consulting,,,,,,,,,,,,,,,,
+152,,,,,,,,,,,,,,,,,,,,,
+153,501,9000,,,Corporate Advisory,,,,,,,,,,,,,,,,
+154,,,,,,,,,,,,,,,,,,,,,
+155,601,9000,,,Dante Develop,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,
