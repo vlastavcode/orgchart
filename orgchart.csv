@@ -1,22 +1,23 @@
 ﻿id,parentId,size,titulPřed,name,surname,titulZa,positionName,area,email,phone,floor,office,imageUrl,profileUrl,Address,PostCode,City,Country,tags,isLoggedUser
 8001,,2023,,AKCCS,,,Advokátní kancelář,,,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,https://akccs.cz/,Hvězdova 1716/2b,140 00,Praha 4,Česká republika,"Ceo,tag1,manager,cto",FALSE
-7003,8001,2023,,Ředitelství,,,,,,,,,,,,,,,,
-7002,8001,2023,,Partneři,,,,,,,,,,,,,,,,
-7001,8001,2023,,Společníci,,,,,,,,,,,,,,,,
-6126,6001,,Mgr. ,Pavel,Petřek,,Koncipient - Tým Kočtářová,corporate,petrek@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6125,6001,,,Oliver Carlo,Daniëls,,Student - Tým Dědina,corporate,daniels@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6124,6001,,,Marcela,Skyvová,,Student - Tým Dědina,corporate,skyvova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6123,6001,,,Štěpán,Vlk,,Student - Tým Kočtářová,corporate,s.vlk@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6122,6001,,,Daniel,Mravec,,Student - Tým Šimice,corporate,mravec@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6121,6001,,,Lucie,Tomková,,Student - Tým Šimice,corporate,tomkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6120,6001,,,Matyáš,Motl,,Student - Tým Kučera,corporate,motl@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6119,6001,,Mgr. ,David,Růžička,,Koncipient - Tým Šimice,corporate,ruzicka@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6118,6001,,,Kateřina,Forejtová,,Student - Tým Dědina,corporate,forejtova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6117,6001,,,Jakub,Hajčík,,Student - Tým Šimice,corporate,hajcik@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6116,6001,,,Martin,Panoc,,Student - Tým Kučera,corporate,panoc@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6115,6001,,,Denisa,Tobková,,Student - Tým Šimice,corporate,tobkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6114,6001,,Ing.,Kateřina,Buchalová,,Asistentky vedení,corporate,buchalova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
-6113,6001,,,Barbora,Šiklová,,Student - Tým Faustová,corporate,siklova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+7002,8001,2023,,Ředitelství,,,,,,,,,,,,,,,,
+7003,8001,2023,,Partneři,,,,,,,,,,,,,,,,
+7004,8001,2023,,Společníci,,,,,,,,,,,,,,,,
+7001,8001,2023,,Právní týmy,,,,,,,,,,,,,,,,
+6126,7001,,Mgr. ,Pavel,Petřek,,Koncipient - Tým Kočtářová,corporate,petrek@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6125,7001,,,Oliver Carlo,Daniëls,,Student - Tým Dědina,corporate,daniels@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6124,7001,,,Marcela,Skyvová,,Student - Tým Dědina,corporate,skyvova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6123,7001,,,Štěpán,Vlk,,Student - Tým Kočtářová,corporate,s.vlk@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6122,7001,,,Daniel,Mravec,,Student - Tým Šimice,corporate,mravec@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6121,7001,,,Lucie,Tomková,,Student - Tým Šimice,corporate,tomkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6120,7001,,,Matyáš,Motl,,Student - Tým Kučera,corporate,motl@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6119,7001,,Mgr. ,David,Růžička,,Koncipient - Tým Šimice,corporate,ruzicka@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6118,7001,,,Kateřina,Forejtová,,Student - Tým Dědina,corporate,forejtova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6117,7001,,,Jakub,Hajčík,,Student - Tým Šimice,corporate,hajcik@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6116,7001,,,Martin,Panoc,,Student - Tým Kučera,corporate,panoc@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6115,7001,,,Denisa,Tobková,,Student - Tým Šimice,corporate,tobkova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6114,7001,,Ing.,Kateřina,Buchalová,,Asistentky vedení,corporate,buchalova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
+6113,7001,,,Barbora,Šiklová,,Student - Tým Faustová,corporate,siklova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 6112,6001,,,David,Šourek,,Student - Tým Šimice,corporate,sourek@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 6111,6001,,JUDr.,Jana,Kundrátová,,Koncipient - Tým Šimice,corporate,kundratova@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
 6110,6001,,Mgr. ,Veronika,Zacharová,,Eventy a marketing,corporate,cerna@akccs.cz,,,,https://akccs.cz/wp-content/uploads/2022/02/image-3-2.jpg,,,,,,,FALSE
